@@ -12,3 +12,10 @@ git config --global user.email ""
 ```sh
 git config --global -e
 ```
+
+Untracked (sin seguimiento)
+Staged agregados al index/stage area
+Unmodified 
+
+
+new word
