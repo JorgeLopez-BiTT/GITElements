@@ -26,3 +26,5 @@ new line myfriend
 slayer 777
 
 new line added
+
+this is a new line 
