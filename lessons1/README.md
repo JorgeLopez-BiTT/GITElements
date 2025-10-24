@@ -32,3 +32,5 @@ this is a new line
 this is the last line 7 
 
 this is also the last line
+
+this is my last line added to the scritp
