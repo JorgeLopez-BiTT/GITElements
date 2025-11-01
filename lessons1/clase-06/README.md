@@ -44,3 +44,12 @@ git config --global
 git config --local
 ```
 
+```sh
+git commit m "mensaje descriptivo"
+```
+
+## Ver de manera corta el status de los archivos y en que área están
+
+```sh
+git status --short M
+```
