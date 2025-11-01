@@ -53,3 +53,7 @@ git commit m "mensaje descriptivo"
 ```sh
 git status --short M
 ```
+
+```sh
+git log --oneline #forma corta
+git log # forma larga detallada 2
