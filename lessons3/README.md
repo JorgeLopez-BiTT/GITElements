@@ -1,3 +1,21 @@
 # Clase 03 - Git Desarrollo Colaborativo
 
 ##
+
+```sh
+git <comando> --help
+git pull --help
+git add --help
+```
+
+##Como subir los cambios al remoto
+
+```sh
+
+git push
+```
+
+## Para actualizar el local con el remoto
+
+ ```sh
+ git fetch # Me traigo la metadata (Actualizo el .git de mi repo local)
