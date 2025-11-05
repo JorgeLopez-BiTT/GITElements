@@ -19,3 +19,8 @@ git push
 
  ```sh
  git fetch # Me traigo la metadata (Actualizo el .git de mi repo local)
+ git pull # Me traigo los cambios
+
+# Si yo ya se lo qeu va a estar
+
+git pull # Me traigo los cambios
