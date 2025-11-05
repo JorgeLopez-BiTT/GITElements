@@ -61,3 +61,5 @@ git log # forma larga detallada 2
 git remote add origin "https://github.com/JorgeSignusQA/GITElements.git"
 
 git remote added the elements
+
+git push -u origin main
